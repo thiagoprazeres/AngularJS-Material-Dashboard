@@ -1,0 +1,28 @@
+{
+  "name": "AngularJS-Material-Dashboard",
+  "homepage": "https://github.com/thiagoprazeres/AngularJS-Material-Dashboard",
+  "description": "Dashboard with AngularJS Material",
+  "main": "",
+  "keywords": [
+    "Angular",
+    "AngularJS",
+    "Material",
+    "Design",
+    "Dashboard",
+    "Backoffice"
+  ],
+  "authors": [
+    "thiagoprazeres@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.1.4"
+  }
+}
